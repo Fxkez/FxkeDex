@@ -51,7 +51,7 @@ loadstring(game:HttpGet(""))()
 
 - [ ] Plugin system for tools
 - [ ] Theme customization system
-- [ ] Sandbox
+- [ ] Script executor sandbox console (safe eval environment)
 - [ ] Runtime environment inspection
 - [ ] Command palette
 - [ ] Instance relationship graph (visual node map)
