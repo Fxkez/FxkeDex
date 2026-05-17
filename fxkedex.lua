@@ -28343,7 +28343,7 @@ Main = (function()
 			Window = ConnectionTracer.Window
 		})
 		Main.CreateApp({
-			Name = "Change Histroy",
+			Name = "Change History",
 			Icon = nicon("change_history", "Material"),
 			Window = ChangeHistory.Window
 		})
