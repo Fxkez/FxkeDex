@@ -26,6 +26,12 @@ FxkeDex is a modernized fork of the original Dex++ Explorer, redesigned with a f
 - **Script Sandbox** safe-eval Luau console with capability gating, persistent top-level environment, and live output
 - **Environment Inspector** browse the executor's globals, services, and hooks; see which executor functions are available in your runtime
 - **Command Palette** Ctrl+P fuzzy command launcher with recent history and built-in shortcuts for every app
+- **Theme Customizer** live-editable theme with 5 built-in presets (Dark, Light, Midnight, Solarized, HighContrast) and import/export
+- **Instance Graph** visual relationship graph for any instance, showing parent chain, children, and reference properties (Adornee, PrimaryPart, ObjectValue.Value, etc.) with pan, zoom, and viewport culling
+- **Call Stack Viewer** capture stack snapshots on demand, sample-based profiling to find hot functions, and one-click jump to the resolved script in the Script Viewer
+- **Connection Tracer** list every active connection on an instance's signals (API-driven enumeration covers every event the class exposes); see which script and line each handler comes from and disable, fire, defer, or disconnect them in place
+- **Change History** watch any instance and get a live, timestamped log of property changes with before/after values
+- **Memory Inspector** find what's still holding a reference to a given instance (instance properties, Lua tables, function upvalues) plus heap stats and Lua memory totals
 
 ### ⚙ Performance
 - Reduced UI overhead
@@ -69,12 +75,11 @@ loadstring(game:HttpGet(""))()
 - [x] Script executor sandbox console (safe eval environment)
 - [x] Runtime environment inspection
 - [x] Command palette
-- [ ] Instance relationship graph (visual node map)
+- [x] Instance relationship graph (visual node map)
 - [x] Call stack / script trace viewer
-- [ ] Event connection tracer (signals → connections)
-- [ ] Change history tracker (what changed, when, and where)
-- [ ] Memory/reference inspector for instances
-- [ ] Export explorer data (JSON / text dump)
+- [x] Event connection tracer (signals → connections)
+- [x] Change history tracker (what changed, when, and where)
+- [x] Memory/reference inspector for instances
 
 ---
 
