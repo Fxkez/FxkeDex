@@ -23,10 +23,9 @@ FxkeDex is a modernized fork of the original Dex++ Explorer, redesigned with a f
 ### 🧰 Developer Tools
 - Remote/event monitoring utilities (RemoteSpy)
 - Console output viewer
-- **Script Sandbox** — safe-eval Luau console with capability gating, persistent top-level environment, and live output
-- **Environment Inspector** — browse the executor's globals, services, and hooks; see which executor functions are available in your runtime
-- **Command Palette** — Ctrl+P fuzzy command launcher with recent history and built-in shortcuts for every app
-- **Theme Customizer** — live-editable theme with 5 built-in presets (Dark, Light, Midnight, Solarized, HighContrast) and import/export
+- **Script Sandbox** safe-eval Luau console with capability gating, persistent top-level environment, and live output
+- **Environment Inspector** browse the executor's globals, services, and hooks; see which executor functions are available in your runtime
+- **Command Palette** Ctrl+P fuzzy command launcher with recent history and built-in shortcuts for every app
 
 ### ⚙ Performance
 - Reduced UI overhead
