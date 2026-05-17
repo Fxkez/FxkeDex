@@ -64,7 +64,7 @@ FxkeDex is a modernized fork of the original Dex++ Explorer, redesigned with a f
 
 ## 🧩 The Script
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fxkez/FxkeDex/refs/heads/main/fxkedex.lua"))()
 ```
 
 ---
