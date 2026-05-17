@@ -52,6 +52,9 @@ FxkeDex is a modernized fork of the original Dex++ Explorer, redesigned with a f
 ### Environment Inspector
 ![Environment Inspector](/Images/envinspector.png)
 
+### Call Stack and Trace Viewer
+![CallStack](/Images/callstack.png)
+
 ---
 
 ## 🧩 Installation
