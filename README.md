@@ -1,4 +1,4 @@
-# ⚡ FxkeDex
+# ⚡ [FxkeDex](https://fxke.win/dex)
 ### *A refined fork of Dex++ Explorer.*
 
 ---
