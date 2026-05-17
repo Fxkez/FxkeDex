@@ -4,7 +4,7 @@
 ---
 
 ## ✨ Overview
-FxkeDex is a modernized fork of the original Dex++ Explorer, redesigned with a focus on:
+FxkeDex is a modernized fork of the Dex++ Explorer, redesigned with a focus on:
 - 🧭 Cleaner navigation & UI flow
 - ⚡ Faster exploration performance
 - 🧠 Improved object inspection tools
