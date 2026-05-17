@@ -71,7 +71,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Fxkez/FxkeDex/refs/he
 
 ## 🛠 Roadmap
 - [ ] Plugin system for tools
-- [x] Theme customization system
 - [x] Script executor sandbox console (safe eval environment)
 - [x] Runtime environment inspection
 - [x] Command palette
