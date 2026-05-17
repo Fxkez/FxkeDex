@@ -68,7 +68,7 @@ loadstring(game:HttpGet(""))()
 - [x] Runtime environment inspection
 - [x] Command palette
 - [ ] Instance relationship graph (visual node map)
-- [ ] Call stack / script trace viewer
+- [x] Call stack / script trace viewer
 - [ ] Event connection tracer (signals → connections)
 - [ ] Change history tracker (what changed, when, and where)
 - [ ] Memory/reference inspector for instances
