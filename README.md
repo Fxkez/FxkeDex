@@ -26,7 +26,6 @@ FxkeDex is a modernized fork of the Dex++ Explorer, redesigned with a focus on:
 - **Script Sandbox** safe-eval Luau console with capability gating, persistent top-level environment, and live output
 - **Environment Inspector** browse the executor's globals, services, and hooks; see which executor functions are available in your runtime
 - **Command Palette** Ctrl+P fuzzy command launcher with recent history and built-in shortcuts for every app
-- **Theme Customizer** live-editable theme with 5 built-in presets (Dark, Light, Midnight, Solarized, HighContrast) and import/export
 - **Instance Graph** visual relationship graph for any instance, showing parent chain, children, and reference properties (Adornee, PrimaryPart, ObjectValue.Value, etc.) with pan, zoom, and viewport culling
 - **Call Stack Viewer** capture stack snapshots on demand, sample-based profiling to find hot functions, and one-click jump to the resolved script in the Script Viewer
 - **Connection Tracer** list every active connection on an instance's signals (API-driven enumeration covers every event the class exposes); see which script and line each handler comes from and disable, fire, defer, or disconnect them in place
